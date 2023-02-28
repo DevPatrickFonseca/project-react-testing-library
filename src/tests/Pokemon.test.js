@@ -21,6 +21,7 @@ describe('Requisito 06 - Teste o componente <Pokemon.js />', () => {
 
     const pokemonCardType = screen.getByTestId('pokemon-type');
     expect(pokemonCardType).toBeInTheDocument();
+    expect(pokemonCardType).toHaveTextContent('Electric');
 
     const pokemonCardWeight = screen.getByTestId('pokemon-weight');
     expect(pokemonCardWeight).toBeInTheDocument();
@@ -33,6 +34,7 @@ describe('Requisito 06 - Teste o componente <Pokemon.js />', () => {
 
     const hasFavoritePokemonImage = screen.getByRole('img', { name: `${name} sprite` });
     expect(hasFavoritePokemonImage.alt).toContain(`${name} sprite`);
+    expect(hasFavoritePokemonImage.src).toBe(data[0].image);
   });
 
   test('2 - Se o card do Pokémon indicado na Pokédex contém um link de navegação para exibir detalhes deste Pokémon', () => {
