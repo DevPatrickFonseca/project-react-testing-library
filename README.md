@@ -48,9 +48,12 @@
 
 5. Rode os testes:
 	```bash
-	npx stryker run
+	npm run test 
 	```
  
+	```bash
+	npm run test-coverage
+	```
 
 ## ✅O que foi desenvolvido e testado
 
