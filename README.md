@@ -2,7 +2,7 @@
   <h1><strong>React Testing Library🛠️</h1>
   </div>
 
-## <strong>✅ Tecnologias e linguagens:</strong><br />
+## <strong>🧰Tecnologias e linguagens:</strong><br />
   <div align="center">
     <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_jest.svg" width="60" fill="none" />
@@ -13,7 +13,7 @@
   </div>
   
 
-## <strong>✅ O que foi desenvolvido</strong><br />
+## <strong>🎯O que foi desenvolvido</strong><br />
 
 - Utilizei os seletores (queries) da React-Testing-Library em testes automatizados.
 
@@ -26,28 +26,33 @@
 - Testei inputs.
 
 
-## ✅ Orientações
+## 📝Orientações para instalar e rodar o projeto
 
-<strong>‼️ Para fazer o download do projeto</strong><br />
+1. Crie um diretório usando o comando mkdir e entre no diretório:
+	```bash
+	mkdir patrick-fonseca-projetos && cd patrick-fonseca-projetos
+	```
+ 2. Clone o repositório e use o comando no terminal:
+	```bash
+	git clone git@github.com:PFonsecaFV/project-react-testing-library.git
+	```
+3. Acesse o diretório do projeto e instale suas dependências:
+	```bash
+	cd project-react-testing-library && npm install
+	```
 
-  1. Clone o repositório
+4. Entre no VS Code e rode os testes:
+	```bash
+	code .
+	```
 
-  - Use o comando:
-  ```bash
-    git clone git@github.com:PFonsecaFV/project-react-testing-library.git
-  ```
+5. Rode os testes:
+	```bash
+	npx stryker run
+	```
+ 
 
-  - Entre na pasta do repositório que você acabou de clonar:
-  ```bash
-    cd project-react-testing-library
-  ```
-
-  2. Instale as dependências
-  ```bash
-    npm install
-  ```
-
-## ✅ O que foi desenvolvido e testado
+## ✅O que foi desenvolvido e testado
 
  1. Teste o componente `<App.js />`
 
