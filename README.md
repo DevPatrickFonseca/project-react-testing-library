@@ -26,7 +26,7 @@
 - Testei inputs.
 
 
-## 📝Orientações para instalar e rodar o projeto
+## 📝Orientações para instalar e testar o projeto
 
 1. Crie um diretório usando o comando mkdir e entre no diretório:
 	```bash
