@@ -2,7 +2,7 @@
   <h1><strong>React Testing Library🛠️</h1>
   </div>
 
-### <strong>✅ Tecnologias e linguagens:</strong><br />
+## <strong>✅ Tecnologias e linguagens:</strong><br />
   <div align="center">
     <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_jest.svg" width="60" fill="none" />
@@ -13,7 +13,7 @@
   </div>
   
 
-### <strong>✅ O que foi desenvolvido</strong><br />
+## <strong>✅ O que foi desenvolvido</strong><br />
 
 - Utilizei os seletores (queries) da React-Testing-Library em testes automatizados.
 
@@ -26,7 +26,7 @@
 - Testei inputs.
 
 
-# Orientações
+## ✅ Orientações
 
 <strong>‼️ Para fazer o download do projeto</strong><br />
 
@@ -47,21 +47,21 @@
     npm install
   ```
 
-# O que foi desenvolvido e testado
+## ✅ O que foi desenvolvido e testado
 
-#### 1. Teste o componente `<App.js />`
+ 1. Teste o componente `<App.js />`
 
-#### 2. Teste o componente `<About.js />.`
+ 2. Teste o componente `<About.js />.`
 
-#### 3. Teste o componente `<FavoritePokemon.js />`
+ 3. Teste o componente `<FavoritePokemon.js />`
 
-#### 4. Teste o componente `<NotFound.js />`
+ 4. Teste o componente `<NotFound.js />`
 
-#### 5. Teste o componente `<Pokedex.js />`
+ 5. Teste o componente `<Pokedex.js />`
 
-#### 6. Teste o componente `<Pokemon.js />`
+ 6. Teste o componente `<Pokemon.js />`
 
-#### 7. Teste o componente `<PokemonDetails.js />`
+ 7. Teste o componente `<PokemonDetails.js />`
 
 ---
 
