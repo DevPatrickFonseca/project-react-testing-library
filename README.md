@@ -28,7 +28,7 @@
 
 # Orientações
 
-<strong>‼️ Bara fazer o download do projeto</strong><br />
+<strong>‼️ Para fazer o download do projeto</strong><br />
 
   1. Clone o repositório
 
