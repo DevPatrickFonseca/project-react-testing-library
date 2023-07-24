@@ -2,7 +2,7 @@
   <h1><strong>React Testing Library🛠️</h1>
   </div>
 
-## <strong>🧰Tecnologias e linguagens:</strong><br />
+## <strong>🧰Tecnologias, linguagens e ferramentas:</strong><br />
   <div align="center">
     <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_jest.svg" width="60" fill="none" />
